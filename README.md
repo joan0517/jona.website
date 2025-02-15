@@ -23,8 +23,8 @@ I'm a passionate software developer with a love for creating innovative solution
 ## 📫 How to reach me
 
 - Email: joan.developer@example.com
-- LinkedIn: [linkedin.com/in/joan-developer](https://www.linkedin.com/in/joan-developer)
-- Twitter: [@joan_dev](https://twitter.com/joan_dev)
+- LinkedIn: [-](-)
+- Twitter: [-](-)
 
 ## 💬 Let's Connect!
 
