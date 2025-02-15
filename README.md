@@ -22,7 +22,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 📫 How to reach me
 
-- Email: joan.developer@example.com
+- Email: siannainggolan26@gmail.com
 - LinkedIn: [-](-)
 - Twitter: [-](-)
 
